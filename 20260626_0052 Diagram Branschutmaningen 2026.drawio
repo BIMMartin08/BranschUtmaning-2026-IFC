@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mOzkOtAnC_vQMw8oTf3F">
-    <mxGraphModel dx="1519" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2596" dy="2114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-22" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRailwayPart (x2)" vertex="1">
           <mxGeometry height="160" width="160" x="40" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-23" parent="Mvb2DDXU9CHEwzIsYcW_-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;TURNOUTTRACK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-23" parent="Mvb2DDXU9CHEwzIsYcW_-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: TURNOUTTRACK&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;UT:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-21" parent="Mvb2DDXU9CHEwzIsYcW_-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;DA20 Ballasterad spårväxel&lt;/i&gt;&lt;i style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;system&lt;/i&gt;" vertex="1">
@@ -132,7 +132,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-39" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRailwayPart (x4)" vertex="1">
           <mxGeometry height="160" width="160" x="240" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-40" parent="Mvb2DDXU9CHEwzIsYcW_-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PLAINTRACK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-40" parent="Mvb2DDXU9CHEwzIsYcW_-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:PLAINTRACK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-5" parent="Mvb2DDXU9CHEwzIsYcW_-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;DA10 Ballasterad spårsystem&lt;/i&gt;" vertex="1">
@@ -147,49 +147,49 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-60" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcCourse" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-61" parent="Mvb2DDXU9CHEwzIsYcW_-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-61" parent="Mvb2DDXU9CHEwzIsYcW_-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-63" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcTrackElement" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-64" parent="Mvb2DDXU9CHEwzIsYcW_-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-64" parent="Mvb2DDXU9CHEwzIsYcW_-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-65" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="240" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-66" parent="Mvb2DDXU9CHEwzIsYcW_-65" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-66" parent="Mvb2DDXU9CHEwzIsYcW_-65" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-74" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1390" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-75" parent="Mvb2DDXU9CHEwzIsYcW_-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;STOCKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-75" parent="Mvb2DDXU9CHEwzIsYcW_-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:STOCKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-80" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-81" parent="Mvb2DDXU9CHEwzIsYcW_-80" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-81" parent="Mvb2DDXU9CHEwzIsYcW_-80" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-71" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1260" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-72" parent="Mvb2DDXU9CHEwzIsYcW_-71" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;CHECKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-72" parent="Mvb2DDXU9CHEwzIsYcW_-71" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:CHECKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-68" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcTrackElement" vertex="1">
           <mxGeometry height="120" width="160" x="240" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-69" parent="Mvb2DDXU9CHEwzIsYcW_-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-69" parent="Mvb2DDXU9CHEwzIsYcW_-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-86" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcTrackElement" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-87" parent="Mvb2DDXU9CHEwzIsYcW_-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;FROG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-87" parent="Mvb2DDXU9CHEwzIsYcW_-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:FROG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-12" parent="Mvb2DDXU9CHEwzIsYcW_-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;WRA20 Räl&lt;/i&gt;" vertex="1">
@@ -198,7 +198,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-94" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcElementAssemby" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1650" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-95" parent="Mvb2DDXU9CHEwzIsYcW_-94" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;TRACTION_SWITCHING&lt;br&gt;_ASSEMBLY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-95" parent="Mvb2DDXU9CHEwzIsYcW_-94" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:TRACTION_SWITCHING&lt;br&gt;_ASSEMBLY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-6" parent="Mvb2DDXU9CHEwzIsYcW_-94" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;QSB Spårväxel&lt;/i&gt;" vertex="1">
@@ -344,7 +344,7 @@
         <mxCell id="sEfl-HKJlYNaErx9WUE4-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcCourse" vertex="1">
           <mxGeometry height="120" width="160" x="240" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="sEfl-HKJlYNaErx9WUE4-2" parent="sEfl-HKJlYNaErx9WUE4-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="sEfl-HKJlYNaErx9WUE4-2" parent="sEfl-HKJlYNaErx9WUE4-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="sEfl-HKJlYNaErx9WUE4-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;WRA20 Räl&lt;/i&gt;" vertex="1">
@@ -371,10 +371,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W529lKnZn0Pt_IiwfnUL-7" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri; font-size: 14.6667px; text-align: left; white-space: pre-wrap; background-color: rgb(174, 170, 170);&quot;&gt;Pset_CourseCommon&lt;/span&gt;" vertex="1">
-          <mxGeometry height="140" width="160" x="800" y="860" as="geometry" />
+          <mxGeometry height="130" width="170" x="800" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="W529lKnZn0Pt_IiwfnUL-8" parent="W529lKnZn0Pt_IiwfnUL-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;TrackID&lt;/div&gt;&lt;div&gt;TrackNumber&lt;/div&gt;&lt;div&gt;TrackUsage&lt;/div&gt;&lt;div&gt;TrackCharacteristic&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="30" y="10" as="geometry" />
+        <mxCell id="W529lKnZn0Pt_IiwfnUL-8" parent="W529lKnZn0Pt_IiwfnUL-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;NominalLength&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;NominalThickness&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;NominalWidth&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="140" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f15OPERFZCpfWA5sp-Du-1" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri; font-size: 14.6667px; text-align: left; white-space: pre-wrap; background-color: rgb(174, 170, 170);&quot;&gt;Pset_CourseCommon&lt;/span&gt;" vertex="1">
+          <mxGeometry height="130" width="170" x="795" y="1125" as="geometry" />
+        </mxCell>
+        <mxCell id="f15OPERFZCpfWA5sp-Du-2" parent="f15OPERFZCpfWA5sp-Du-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;NominalLength&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;NominalThickness&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;NominalWidth&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="140" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="f15OPERFZCpfWA5sp-Du-3" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;" target="f15OPERFZCpfWA5sp-Du-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1190" />
+            </Array>
+            <mxPoint x="400" y="1200" as="sourcePoint" />
+            <mxPoint x="810" y="929" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
