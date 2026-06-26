@@ -318,7 +318,7 @@
             <mxPoint x="-340" y="49.72000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Koppling mot PropertySet" vertex="1">
+        <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Koppling mot PropertySet/QuantitySet" vertex="1">
           <mxGeometry height="20" width="180" x="-320" y="40" as="geometry" />
         </mxCell>
         <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Aggregering" vertex="1">
@@ -403,11 +403,6 @@
         </mxCell>
         <mxCell id="f15OPERFZCpfWA5sp-Du-20" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="f15OPERFZCpfWA5sp-Du-12">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="1190" />
-              <mxPoint x="580" y="1230" />
-              <mxPoint x="750" y="1230" />
-            </Array>
             <mxPoint x="400" y="1190" as="sourcePoint" />
             <mxPoint x="770" y="1050" as="targetPoint" />
           </mxGeometry>
@@ -417,7 +412,7 @@
             <Array as="points">
               <mxPoint x="580" y="1190" />
               <mxPoint x="580" y="1470" />
-              <mxPoint x="740" y="1470" />
+              <mxPoint x="755" y="1470" />
             </Array>
             <mxPoint x="410" y="1200" as="sourcePoint" />
             <mxPoint x="740" y="1550" as="targetPoint" />
