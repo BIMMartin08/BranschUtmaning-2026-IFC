@@ -58,7 +58,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRailwayPart" vertex="1">
           <mxGeometry height="160" width="160" x="-200" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-14" parent="Mvb2DDXU9CHEwzIsYcW_-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;SUBSTRUCTURE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-14" parent="Mvb2DDXU9CHEwzIsYcW_-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PT:&amp;nbsp;&lt;/span&gt;SUBSTRUCTURE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-24" parent="Mvb2DDXU9CHEwzIsYcW_-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;CE10 Banunderbyggnad på banvall&lt;/i&gt;" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-17" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcFacilityPartCommon" vertex="1">
           <mxGeometry height="160" width="160" x="-400" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-18" parent="Mvb2DDXU9CHEwzIsYcW_-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;BELOWGROUND&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-18" parent="Mvb2DDXU9CHEwzIsYcW_-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PT:&amp;nbsp;&lt;/span&gt;BELOWGROUND&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-28" edge="1" parent="1" source="Mvb2DDXU9CHEwzIsYcW_-22" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#0000FF;" target="MaJ7bC2r_Fw7rWl1Xt4u-25">
@@ -82,7 +82,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-22" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRailwayPart (x2)" vertex="1">
           <mxGeometry height="160" width="160" x="40" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-23" parent="Mvb2DDXU9CHEwzIsYcW_-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: TURNOUTTRACK&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;UT:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-23" parent="Mvb2DDXU9CHEwzIsYcW_-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: TURNOUTTRACK&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;UT:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;LONGITUDINAL&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Name&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-21" parent="Mvb2DDXU9CHEwzIsYcW_-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;DA20 Ballasterad spårväxel&lt;/i&gt;&lt;i style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;system&lt;/i&gt;" vertex="1">
@@ -132,7 +132,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-39" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRailwayPart (x4)" vertex="1">
           <mxGeometry height="160" width="160" x="240" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-40" parent="Mvb2DDXU9CHEwzIsYcW_-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:PLAINTRACK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-40" parent="Mvb2DDXU9CHEwzIsYcW_-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: PLAINTRACK&lt;/div&gt;&lt;div&gt;UT:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;LONGITUDINAL&lt;/span&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-5" parent="Mvb2DDXU9CHEwzIsYcW_-39" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;DA10 Ballasterad spårsystem&lt;/i&gt;" vertex="1">
@@ -147,49 +147,49 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-60" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcCourse" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-61" parent="Mvb2DDXU9CHEwzIsYcW_-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-61" parent="Mvb2DDXU9CHEwzIsYcW_-60" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-63" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcTrackElement" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-64" parent="Mvb2DDXU9CHEwzIsYcW_-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-64" parent="Mvb2DDXU9CHEwzIsYcW_-63" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-65" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="240" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-66" parent="Mvb2DDXU9CHEwzIsYcW_-65" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-66" parent="Mvb2DDXU9CHEwzIsYcW_-65" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-74" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1390" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-75" parent="Mvb2DDXU9CHEwzIsYcW_-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:STOCKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-75" parent="Mvb2DDXU9CHEwzIsYcW_-74" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: STOCKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-80" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-81" parent="Mvb2DDXU9CHEwzIsYcW_-80" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-81" parent="Mvb2DDXU9CHEwzIsYcW_-80" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: RAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-71" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRail" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1260" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-72" parent="Mvb2DDXU9CHEwzIsYcW_-71" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:CHECKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-72" parent="Mvb2DDXU9CHEwzIsYcW_-71" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: CHECKRAIL&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-68" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcTrackElement" vertex="1">
           <mxGeometry height="120" width="160" x="240" y="1130" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-69" parent="Mvb2DDXU9CHEwzIsYcW_-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-69" parent="Mvb2DDXU9CHEwzIsYcW_-68" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: SLEEPER&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-86" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcTrackElement" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1520" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-87" parent="Mvb2DDXU9CHEwzIsYcW_-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:FROG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-87" parent="Mvb2DDXU9CHEwzIsYcW_-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: FROG&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-12" parent="Mvb2DDXU9CHEwzIsYcW_-86" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;WRA20 Räl&lt;/i&gt;" vertex="1">
@@ -198,7 +198,7 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-94" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcElementAssemby" vertex="1">
           <mxGeometry height="120" width="160" x="40" y="1650" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-95" parent="Mvb2DDXU9CHEwzIsYcW_-94" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:TRACTION_SWITCHING&lt;br&gt;_ASSEMBLY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-95" parent="Mvb2DDXU9CHEwzIsYcW_-94" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: TRACTION_SWITCHING&lt;br&gt;_ASSEMBLY&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-6" parent="Mvb2DDXU9CHEwzIsYcW_-94" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;QSB Spårväxel&lt;/i&gt;" vertex="1">
@@ -233,7 +233,7 @@
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-29" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcBuiltSystem" vertex="1">
           <mxGeometry height="160" width="160" x="560" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="t3mrnP2Xw83QiWNbG-G2-30" parent="t3mrnP2Xw83QiWNbG-G2-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;RAILWAYTRACK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;" vertex="1">
+        <mxCell id="t3mrnP2Xw83QiWNbG-G2-30" parent="t3mrnP2Xw83QiWNbG-G2-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: RAILWAYTRACK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="t3mrnP2Xw83QiWNbG-G2-3" parent="t3mrnP2Xw83QiWNbG-G2-29" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;R Spårsystem&lt;/i&gt;&lt;div&gt;&lt;i&gt;(Funktionella system)&lt;/i&gt;&lt;/div&gt;" vertex="1">
@@ -344,7 +344,7 @@
         <mxCell id="sEfl-HKJlYNaErx9WUE4-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcCourse" vertex="1">
           <mxGeometry height="120" width="160" x="240" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="sEfl-HKJlYNaErx9WUE4-2" parent="sEfl-HKJlYNaErx9WUE4-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT:BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="sEfl-HKJlYNaErx9WUE4-2" parent="sEfl-HKJlYNaErx9WUE4-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;PT: BALLASTBED&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="140" x="10" y="30" as="geometry" />
         </mxCell>
         <mxCell id="sEfl-HKJlYNaErx9WUE4-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;i&gt;WRA20 Räl&lt;/i&gt;" vertex="1">
