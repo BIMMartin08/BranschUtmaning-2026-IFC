@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mOzkOtAnC_vQMw8oTf3F">
-    <mxGraphModel dx="1807" dy="2205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2590" dy="3109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,8 +40,8 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-8" parent="Mvb2DDXU9CHEwzIsYcW_-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;CONSTRUCTION&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcAlignment" vertex="1">
-          <mxGeometry height="160" width="160" x="40" y="-200" as="geometry" />
+        <mxCell id="Mvb2DDXU9CHEwzIsYcW_-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" value="IfcAlignment" vertex="1">
+          <mxGeometry height="160" width="160" x="300" y="190" as="geometry" />
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-10" parent="Mvb2DDXU9CHEwzIsYcW_-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="Name&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
@@ -70,13 +70,13 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-18" parent="Mvb2DDXU9CHEwzIsYcW_-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PT:&amp;nbsp;&lt;/span&gt;BELOWGROUND&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Name&lt;div&gt;Longname&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="140" x="10" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-28" edge="1" parent="1" source="Mvb2DDXU9CHEwzIsYcW_-22" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#0000FF;" target="MaJ7bC2r_Fw7rWl1Xt4u-25">
+        <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-28" edge="1" parent="1" source="Mvb2DDXU9CHEwzIsYcW_-22" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#0000FF;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="580" />
               <mxPoint x="360" y="580" />
             </Array>
-            <mxPoint x="400" y="570" as="targetPoint" />
+            <mxPoint x="820" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-22" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="IfcRailwayPart (x2)" vertex="1">
@@ -121,11 +121,10 @@
         <mxCell id="Mvb2DDXU9CHEwzIsYcW_-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="160" width="160" x="240" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-27" edge="1" parent="1" source="Mvb2DDXU9CHEwzIsYcW_-39" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#0000FF;" target="MaJ7bC2r_Fw7rWl1Xt4u-25">
+        <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-27" edge="1" parent="1" source="Mvb2DDXU9CHEwzIsYcW_-39" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=#0000FF;" target="MaJ7bC2r_Fw7rWl1Xt4u-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="600" />
-              <mxPoint x="360" y="600" />
+              <mxPoint x="360" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -307,7 +306,7 @@
           <mxGeometry height="20" width="260" x="-320" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-25" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="Pset_RailwayTrackStructurePart" vertex="1">
-          <mxGeometry height="200" width="220" x="280" y="360" as="geometry" />
+          <mxGeometry height="200" width="220" x="820" y="320" as="geometry" />
         </mxCell>
         <mxCell id="MaJ7bC2r_Fw7rWl1Xt4u-26" parent="MaJ7bC2r_Fw7rWl1Xt4u-25" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="HasBallastTrack&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;HasCWR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;IsSunExposed&lt;/span&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;TrackSupportingStructure&lt;/span&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="120" x="30" y="10" as="geometry" />
@@ -423,6 +422,12 @@
             <mxPoint x="420" y="940" as="sourcePoint" />
             <mxPoint x="767" y="877" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="M8hm5zVeTBDeuOKxbbim-2" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="ifcClassification" vertex="1">
+          <mxGeometry height="190" width="160" x="710" y="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="M8hm5zVeTBDeuOKxbbim-3" parent="M8hm5zVeTBDeuOKxbbim-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(238, 238, 238);&quot;&gt;Source&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;Edition&lt;/span&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(238, 238, 238);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;EditionDate&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;Name&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;Description&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248);&quot;&gt;Specification&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;ReferenceTokens&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="120" x="30" y="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
