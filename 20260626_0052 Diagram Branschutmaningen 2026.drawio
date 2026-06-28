@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="mOzkOtAnC_vQMw8oTf3F">
-    <mxGraphModel dx="2590" dy="3109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1682" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -423,11 +423,17 @@
             <mxPoint x="767" y="877" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M8hm5zVeTBDeuOKxbbim-2" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;" value="ifcClassification" vertex="1">
+        <mxCell id="M8hm5zVeTBDeuOKxbbim-2" parent="1" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ifcClassification" vertex="1">
           <mxGeometry height="190" width="160" x="710" y="1700" as="geometry" />
         </mxCell>
         <mxCell id="M8hm5zVeTBDeuOKxbbim-3" parent="M8hm5zVeTBDeuOKxbbim-2" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(238, 238, 238);&quot;&gt;Source&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;Edition&lt;/span&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(238, 238, 238);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;EditionDate&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;Name&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;Description&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248);&quot;&gt;Specification&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(17, 17, 17); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif; font-size: medium; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;&lt;span style=&quot;background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;background-color: rgb(238, 238, 238);&quot;&gt;ReferenceTokens&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="120" x="30" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="M8hm5zVeTBDeuOKxbbim-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="20" width="80" x="-420" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="M8hm5zVeTBDeuOKxbbim-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Classifciation" vertex="1">
+          <mxGeometry height="20" width="180" x="-320" y="-240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
